@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    background-color: blue;
+    width: 450px;
+    height: 500px;
+}
